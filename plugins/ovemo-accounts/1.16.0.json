@@ -1,0 +1,31 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/portal-choice.js" : "fb8c0a06e7e79a1b5e505b901fe392c3ffb4b37706e3bb324554c70f430877bd",
+      "assets/js/vies-lookup.js" : "6f59b41ec7080c38f45ffdbef5dfc9c83d4e5de5416886384d44d490e2363ccf",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-accounts-consents.php" : "b9759c2c5f2a514135cd1d4f92ee8ecda16cf6bb697340258dd0efe4870b2cfe",
+      "includes/class-ovemo-accounts-email.php" : "acafb8b06b210d563bd941ab80209044efdfbad0c7ea1d7dcc20707506fc7dd8",
+      "includes/class-ovemo-accounts-erasure.php" : "a89cbd97d562d72accc4c7e77935c53a2fd87f3a255dd61794c2f1e52ee752d2",
+      "includes/class-ovemo-accounts-field.php" : "c66612f741533df4ec3b9893175d6ceba74bf5cf476fd6de091530a2f28d56cf",
+      "includes/class-ovemo-accounts-ids.php" : "2d8068f764ae3f83ebf2b60dd3611a266072f6c1be5399256374fbde1e0578d4",
+      "includes/class-ovemo-accounts-invite.php" : "dc83ac66edc3dd020f9d4fd606c7e72ea8a29e6eca0d553343c84767cc29ac64",
+      "includes/class-ovemo-accounts-invoice.php" : "1d105298ea3b11238c695c57cc493da18820db806e36ce375a50d5adbd1ccd2f",
+      "includes/class-ovemo-accounts-links.php" : "cfe9a95bbc8e419db306a6cab4abec53778a4881f325206cc4a2095d90eded62",
+      "includes/class-ovemo-accounts-numbering.php" : "ab9e8d6619939949d517b2cf32d2249ae6d21039e28ee12af199568044dc4ecd",
+      "includes/class-ovemo-accounts-personal.php" : "aad5db7635a81ac22b7652986b9f39b4148c782ddecc7dcb0c1a4fd82f994eda",
+      "includes/class-ovemo-accounts-portability.php" : "99198860e18cbb10cf6180721186bb6c18b612206d5864fadb8d180d0e0d7828",
+      "includes/class-ovemo-accounts-registration.php" : "ff54624b6597a8d0ea430e99602e13cdf5d10c47bc7462b7392c97f659ab8ad1",
+      "includes/class-ovemo-accounts-registry.php" : "a1b0a47574ad9a2c8930d99eeb9760eebae72ac6ba59a1e0e42837dde6645e2a",
+      "includes/class-ovemo-accounts.php" : "5517ae317bed2f4e3139a5272aa5722f3fe459deee9969c2556c47ce940230ea",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-accounts-bg_BG.mo" : "9982a0d081886fff77da7e19ec7087bb3577e779005b4c091d4a9fd6b312c022",
+      "ovemo-accounts.php" : "82f1cd85af673608dee70efbbd836c04a56c0d69f3fb596dcf8a9d38c413a949"
+   },
+   "version" : "1.16.0"
+}
