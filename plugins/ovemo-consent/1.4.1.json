@@ -1,0 +1,29 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/css/front.css" : "21a6d1875e2ba6c5ef93f82630c119e95401d59a43798a1b9b3bb6ec54b9d7c0",
+      "assets/css/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/admin.js" : "2df8e0e01dae2832ff6ec9a3f7708e067466e53686dca65f02be746fd6151e05",
+      "assets/js/front.js" : "60f3656d0df4f9d0e3ecdfb55809bb14690f5d97c60c96edf4192b010ea9087b",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/inspector.js" : "b2123e7eee7c71888e09ab82943dc454cf685ca32c8d2a4ce5cf7da068cfee0c",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-consent-admin.php" : "edb1d69d2d200e96b5fc479657e4fb846527653bc124025b8abd5cc481f7c90e",
+      "includes/class-ovemo-consent-blocker.php" : "ad883c5de5b82a9da40f1d1027d39c6c286ce65ef3ec0d78cdad05190bb69a06",
+      "includes/class-ovemo-consent-front.php" : "e45e41acd139116b429f1672ca04960418af7bb416d4c4ff8608ff7a7a4c311b",
+      "includes/class-ovemo-consent-log.php" : "506ff6e176b2f435f7a6393dff3a8021f10788caedc6f5f6f596801420f06702",
+      "includes/class-ovemo-consent-rest.php" : "3b1f2bddba1d2e34b997c909113937e61f7f91071d414d30b2df955abc3b55e8",
+      "includes/class-ovemo-consent-scan.php" : "ebd5e0d9fc6bbb03f467e983af22a43a74094ffe53a55c989fbdb5679d2d58f1",
+      "includes/class-ovemo-consent-services.php" : "3d0506efa0c43aae0f8bdd0dc3e911a32b96be76b3404bbec0b1f62085e81bbf",
+      "includes/class-ovemo-consent.php" : "adc311447803f98fc63227973c9b98ecd6cd4743d658f3534d9a31f02bebb4bf",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-consent-bg_BG.mo" : "6fac3b2902b0497a7afce28521982ef0184d7f1fcba076975d2bcb6b94ef4715",
+      "ovemo-consent.php" : "3e1b9e555f504b71c55a80600a41f776ff4483042fcb95d1d44b0f19db863d25",
+      "uninstall.php" : "ea76016c97c624bfc23affc15877a57d49c77f670c3acf30f4b1b425b92b1686"
+   },
+   "version" : "1.4.1"
+}
