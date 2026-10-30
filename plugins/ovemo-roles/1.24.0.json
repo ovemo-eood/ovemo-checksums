@@ -1,0 +1,23 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/admin.js" : "7b2a7f0a4281a7021d30641983eb8dc5bb6aea4c69b8133ce2bc71730dba123c",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/settings-lock.js" : "a92d46a36f83acc577c1c57c22c53eab40ce1bf71702634494df5aff239bb060",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-roles-admin.php" : "8848cff36464822819aff3c3e7eab13b4973e401f2abe5c924d948824f0a34f8",
+      "includes/class-ovemo-roles-dashboard.php" : "0181b9e369656c57b3968a3a247621c86a9000a4d6952f806fbf6746b0719c55",
+      "includes/class-ovemo-roles-guard.php" : "5e1ec6dcd559217724c304f9cf6198ede2537e41b4a895c34fff66f21c0170b6",
+      "includes/class-ovemo-roles-log.php" : "65477f4d1ec32a662346a240fde2909f31fc5cafde52090a9f273d0185a7417b",
+      "includes/class-ovemo-roles.php" : "917002285ba264f7c231c9f6a77f2c33b890e3d1a23e26eb1ac6fdbd423f01d7",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-roles-bg_BG.mo" : "6f549cea9b553e22de11d85747d7d0090d8b13dba263a5e17ac12248aeb02d8b",
+      "ovemo-roles.php" : "a54e64000b79d53355c8b216361f191768e989d53db3a7dadd45814a60bf977d",
+      "uninstall.php" : "0f7e4c0ca1a3092cf53b4048bd305902fd4666ca04f1d1fd33ff7c22652ac979"
+   },
+   "version" : "1.24.0"
+}
