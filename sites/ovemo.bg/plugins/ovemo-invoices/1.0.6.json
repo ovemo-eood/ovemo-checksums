@@ -1,0 +1,23 @@
+{
+   "files" : {
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-invoices-admin-documents.php" : "f074cb3212025990d02697169fded5a0342dd8ce20b1cb2c5559adf094db10a2",
+      "includes/class-ovemo-invoices-admin-reports.php" : "cedc08a767768e2513edcebda7d003a5000f3c082721b02b826c2d309e75ae2d",
+      "includes/class-ovemo-invoices-admin-settings.php" : "028639928b833d11a0980b97b2da3f647584f8b61e21e1deb9cdc9b674e9b6d8",
+      "includes/class-ovemo-invoices-admin.php" : "d3049321af0cfc3ed6da43b01e68a766352bd0dc3d84c9f4923a14d432872abd",
+      "includes/class-ovemo-invoices-company.php" : "0430068dd105312c6cd65bce4e15a18cea72ad1d7aaeb1e2abc1db770d3667f0",
+      "includes/class-ovemo-invoices-documents.php" : "a1cef71820566e719ac9a1409d5b44ff254ddfa228496b6641b442d28aff52b4",
+      "includes/class-ovemo-invoices-page.php" : "0c389fd3f719a86205ceacd63708fc4ec6b3d50d7f89e3ce5141c4a6370cdf0f",
+      "includes/class-ovemo-invoices-reports.php" : "650193753f5084db828107d6c57ca2cb3f72cf7cf2e1fdf73cd65fb401e5d81e",
+      "includes/class-ovemo-invoices-sums.php" : "9f94f2c42d742620116625866dccf6df8a640f688d5f56ee8b84544a0782a804",
+      "includes/class-ovemo-invoices-words.php" : "f35d9da3173369ef859be1ab9f435cf310b6a0fe3628a727478a4efc5bd33488",
+      "includes/class-ovemo-invoices.php" : "95050b896c46108ef99192e5686b6b69bb0f22647d6e130f7235c2dd04c03f80",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-invoices-bg_BG.mo" : "4f72f743ed875ec85dc2036ce747d8fc093164c9b65c240f42602fef79013d57",
+      "ovemo-invoices.php" : "8438fea911f1f6023264f53a03c6f3f1646bde165f5df7e8cb1dd7a09bb7c859"
+   },
+   "version" : "1.0.6"
+}
