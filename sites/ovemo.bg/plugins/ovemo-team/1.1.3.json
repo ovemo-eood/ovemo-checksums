@@ -1,0 +1,14 @@
+{
+   "files" : {
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-team-admin.php" : "fdf0b7bc55378d59e6e5c393526e8e672d2519e67289acd5f893f7baebb65866",
+      "includes/class-ovemo-team.php" : "441792f68c0d67e193e3f109afde4d1151892300106b9410e460b49536d72f82",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-team-bg_BG.mo" : "ea0b8d8b23f3377107b2975adff97cfdcddb0eaeb526bedf37d4ff02a82c72be",
+      "ovemo-team.php" : "ab250b77cc94bcde1492b9068ebb3ed70237e3473df17dc48b7cddbd7d96e36a"
+   },
+   "version" : "1.1.3"
+}
