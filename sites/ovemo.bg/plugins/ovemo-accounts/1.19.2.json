@@ -28,6 +28,7 @@
       "ovemo-accounts.php" : "46aae93f9b3e5941c8ac183d9880889261d296355b3885acf1264fb5311b855a",
       "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
       "tests/AccountsTest.php" : "066d1790f40d76e7e2e39969e0a970d9cf065744712eef8268adc5b6d4375a93",
+      "tests/README.md" : "655c88416ed17276045fd4f07616e0998529669e6306f22df68961ef5faf5c43",
       "tests/bootstrap.php" : "1c921f84575a1658b78fe8262bef2f9f8e8b93c7053543990f53ddb44d2c7b60",
       "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "tests/phpunit.xml.dist" : "7f27662621db77f1b673eea3e87d22fd27cb168c038fe88760b9cc2e8be950a8"

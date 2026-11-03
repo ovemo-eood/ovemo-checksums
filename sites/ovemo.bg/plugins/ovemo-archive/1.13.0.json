@@ -21,6 +21,7 @@
       "ovemo-archive.php" : "67dcd62c4f56a14abf007c2b68bf4256cfaad906f4770dfb2394542b58a8f022",
       "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
       "tests/ArchiveTest.php" : "47a5d97d02c2eb7df5f6bc87ca33a91c828d4b4df17f554a523c404676e9111b",
+      "tests/README.md" : "d8f5885ad3cb7a7a0b67f8b92652318cf210d7f79573a370f9225cb5854422a2",
       "tests/bootstrap.php" : "70708b21ce921412a0623f9652e09b4c166918904373adeef4df21ffad8314dc",
       "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "tests/phpunit.xml.dist" : "de48ea6e2ef7994f57c327c1ce94e2f00ac586d3c5a5bf29b44194c99893f874",

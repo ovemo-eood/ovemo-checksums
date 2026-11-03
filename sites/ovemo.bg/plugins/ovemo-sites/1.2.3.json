@@ -15,6 +15,7 @@
       "languages/ovemo-sites-bg_BG.mo" : "62d7abf117337c25fad28cf86ec4af3732eef94140cfb9586d7ad565f0c75ff9",
       "ovemo-sites.php" : "3b2592e5bf5d05c0b16b030e8134038ecc00b16a24ad890b5f316183954abb96",
       "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "tests/README.md" : "8f56587bbab7cfd7d4652c87f25ebf301987060d57d452ed86927e0f923edd62",
       "tests/SitesTest.php" : "5651030053e250ab470d3c9f7a6d623d7c8afcb712719ca50605765e1c67b7e5",
       "tests/bootstrap.php" : "f5db4f67410b93c3a76e8f38618fa37b7e9565ac6b92bb39a335d46a2e4b2654",
       "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
