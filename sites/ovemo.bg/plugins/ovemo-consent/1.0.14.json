@@ -26,12 +26,6 @@
       "languages/ovemo-consent-bg_BG.mo" : "41e13ecd9a9824c71ad6d82ed10d4c3adad7f952bdbfe512ae8c21f4677ab51a",
       "languages/ovemo-consent-bg_BG.po" : "569f507913c0a4a9ed2577f1a90f6be9e54c0106bb6fcda164ef1bf3f78cada2",
       "ovemo-consent.php" : "df597b68dfbd9880b462110ee2c6111742f55bb960dd59bbd1dda5ea651967df",
-      "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
-      "tests/ConsentTest.php" : "84e2a374948b270e2ef3c933d4e347aab2badc0489f001c45682c7718ba3c5bd",
-      "tests/README.md" : "4da1d78abe235b809d90413092e08fe731f503df0a2ec1f2e654449d513f02de",
-      "tests/bootstrap.php" : "6cd3966190b39134261e602d84f4b75eb4963e1f55776c909ac19d5ab4deae69",
-      "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
-      "tests/phpunit.xml.dist" : "3bcb272b9208a53b8c6e76d3fef0b9489d9ae8b8cfdb38df053295c8197856c3",
       "uninstall.php" : "ea76016c97c624bfc23affc15877a57d49c77f670c3acf30f4b1b425b92b1686"
    },
    "version" : "1.0.14"

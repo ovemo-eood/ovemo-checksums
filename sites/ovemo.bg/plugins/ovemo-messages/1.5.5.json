@@ -18,13 +18,7 @@
       "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
       "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "languages/ovemo-messages-bg_BG.mo" : "43c7555803c022caca37e31d6e4560263e0c1aca3dbf1f88b2222b6505c9d33f",
-      "ovemo-messages.php" : "d2da5f037031b83fe17c11c4a537e53ef12917420b5667033d4d8c50f20e0272",
-      "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
-      "tests/MessagesTest.php" : "2e0166bd6ce02be4abdec548bd915eb2cbbe9adff2e086a381db9c093960c641",
-      "tests/README.md" : "c9e417643a9da266718d3faf23cacdac970b1f21b73e3bf08823f338c6242fcf",
-      "tests/bootstrap.php" : "9e732af8ea7f32a7bfb59e5ea94508c7536f48bfff4346f5f16b48a4947cf012",
-      "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
-      "tests/phpunit.xml.dist" : "9e69193b7fdd36497875375ed45c2af50e0615505eda6e9ef8785053f0eb4065"
+      "ovemo-messages.php" : "d2da5f037031b83fe17c11c4a537e53ef12917420b5667033d4d8c50f20e0272"
    },
    "version" : "1.5.5"
 }

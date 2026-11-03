@@ -18,12 +18,6 @@
       "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "languages/ovemo-roles-bg_BG.mo" : "86b774b93713b6bf78ba2e6ac2364b7af853453c08cbb28e2b53c0bcc26b2c59",
       "ovemo-roles.php" : "5e8f2c2a07e4e8c529aaa7cd56c90ba45f7d18456a3688f8244afe4feecddcef",
-      "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
-      "tests/README.md" : "898a20795893ed57ac7e5dc01ce75891172af43d186acecdd5c6e15e1f43f99c",
-      "tests/RolesTest.php" : "4eb10877fd83639842dffb7ac74c59443dfa9d0881e66121d6936f7c5e5b1e1a",
-      "tests/bootstrap.php" : "3d40211d485427cbb247af6371dbd646ee40bb152cb6ac46ef6d32f6a5dc7ea5",
-      "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
-      "tests/phpunit.xml.dist" : "e39811645b377170419d7fc99173f6d111a15b7732fd3c53e30125fd37fbbb40",
       "uninstall.php" : "d4715d2fb0791b0a499d4235a078d614832a78f72b977e15af644e35db68f777"
    },
    "version" : "1.26.6"

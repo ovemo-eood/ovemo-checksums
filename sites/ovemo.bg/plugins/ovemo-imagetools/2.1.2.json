@@ -16,13 +16,7 @@
       "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "languages/ovemo-imagetools-bg_BG.mo" : "be19c7254c609eca8be2580349dbe196fde5422a3cab510106d50c27f3ea9030",
       "languages/ovemo-imagetools-bg_BG.po" : "ca42b714fdf2391817e77c1b5e9deab61278b8f22000dbfb70b9b4f9f3bab14d",
-      "ovemo-imagetools.php" : "39ae7a33d2b73c026a98881ab0bf189d8e06b31bcfd76e95f9a8d16e94da35b6",
-      "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
-      "tests/ImagetoolsTest.php" : "6091a739026ffa1cf6b1f7f60b78ecc2b028b7ddfd4f5a3cb08d0f6f7a425341",
-      "tests/README.md" : "92533375f7021ff9e6bc3308d333de281ab994e3068b26c986fe07e33c0887b8",
-      "tests/bootstrap.php" : "d64727b803d85fafdc339581e281019b306d41c0b9916d9a8953cf65535ff90b",
-      "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
-      "tests/phpunit.xml.dist" : "8db5a310fe13631045a3a4b640015dc024c74e87aaca0e08f2666c9edb3a3126"
+      "ovemo-imagetools.php" : "39ae7a33d2b73c026a98881ab0bf189d8e06b31bcfd76e95f9a8d16e94da35b6"
    },
    "version" : "2.1.2"
 }

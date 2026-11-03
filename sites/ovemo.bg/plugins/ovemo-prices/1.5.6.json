@@ -24,12 +24,7 @@
       "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
       "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "languages/ovemo-prices-bg_BG.mo" : "fa20e289c7e88db0d08b1c914c35e97f696b4ca46c37b902c43cc62e1d359a93",
-      "ovemo-prices.php" : "53d78894b628208162cb1403dca5105a0ef3cdeab41e4b79a447569a07df6f57",
-      "tests/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
-      "tests/PricesTest.php" : "6a2afa95b7c3c82fd8de366c80945ec4fe2741b145a26bf7c374c539ebe17627",
-      "tests/bootstrap.php" : "6f96df243c2b07a35a6e1093dc7a7ddd333eeea1ae9e17d0e8d14030427e4579",
-      "tests/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
-      "tests/phpunit.xml.dist" : "564b040079de6079ddf485379246f961291f789fd6ad4c188360ad030e16ad59"
+      "ovemo-prices.php" : "53d78894b628208162cb1403dca5105a0ef3cdeab41e4b79a447569a07df6f57"
    },
    "version" : "1.5.6"
 }
