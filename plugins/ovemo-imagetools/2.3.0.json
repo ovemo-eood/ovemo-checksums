@@ -1,0 +1,21 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/admin.js" : "7e0c110cd1537c38d10824f6e95c7a0880bc6d6b80f9ff56a174ff89602381e5",
+      "assets/hidden-data.js" : "fca691385461c00950b01478ce16d103c610dbde26687a94aecdb82e5f3cfe41",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/admin-page.php" : "01cf2a34a0c375f4882679b287270e64355d08e243b56698acfe5e2207e8e78e",
+      "includes/class-ovemo-imagetools-meta-cleaner.php" : "0c1ee6d846449c3cef038727566c17c1c94328e4a9b676b2b70d9d3cf1b1e746",
+      "includes/db.php" : "71d7128fbcfafafc1864672f0923f4228d70ae135edadb60736d6b9136b516bd",
+      "includes/hidden-data.php" : "d3ccb06aadc551c69c1cb2ffea0d415e93e0b7b38b51aa42e48d917230104f85",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/traces.php" : "a1f08bee2039cc70e6f823cb8a62fe4459ec3d7b83f4b352cc45605771a1102e",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-imagetools-bg_BG.mo" : "b3e5ee27031dde6e2640949f7a93de0a3d7ae8c1de32034ab83ba12c9d8ff9ab",
+      "ovemo-imagetools.php" : "30a406ae2727a82dc5a6446fba49a65d8f85b4f9983bd519d623e40743ea887b"
+   },
+   "version" : "2.3.0"
+}
