@@ -1,0 +1,19 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/site-select.js" : "3628c8ecca92e601b582e9420760c968a858df13043dac4d410df4bc181ee82b",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-sites-field.php" : "a76a3084f0671770a1a265168f02276dd8f57a3eb77c282f12884c963bf68136",
+      "includes/class-ovemo-sites-form.php" : "dda4f504556a0286c40326b84a75d4054360c358ad48041c6af8c3f48368bb10",
+      "includes/class-ovemo-sites.php" : "26d2d7ca8b9d93849bc09b5f7d101cc3f6097dc4dd5198fc382ba84f3f3a9929",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-sites-bg_BG.mo" : "757c5f9f7baf54c4f01ccc6739f340e154816bed212d11d3c5f2018c0aa88cf0",
+      "ovemo-sites.php" : "fcdb8b947f85c7e3155dffa5b0b289d726bd6a443788054016b20faf08e20707"
+   },
+   "version" : "1.4.0"
+}
