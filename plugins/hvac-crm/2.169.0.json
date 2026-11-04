@@ -155,7 +155,7 @@
       "modules/order-items.php" : "13bfeab0ded94a549a63ccc18ef336baca4317ec959260740a7305d5ffcdb7d5",
       "modules/orders.php" : "80f9e6635a6e4e8add7720f068c45efb17c49fdc30efb64a76280e50070086d2",
       "modules/personnel.php" : "a0f3b36f82bd63b1cb3d1b4717d08dcf9937d241cdaa20250f5d640b30e8ce07",
-      "modules/price-list.php" : "2b927d45f0fa4f8cc9d2d3520126c5ce4629a8fc699f11e400e14f626493332f",
+      "modules/price-list.php" : "627cc2262d20c09017d785dc03fe7f74eedda1f1972e9fee849676915bbdbd75",
       "modules/price-list/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "modules/price-list/trait-hvac-price-list-actions.php" : "af214d3d654e3b24ee88df9819622d209912f4d7e792399933ee4f5c1ff79bce",
       "modules/price-list/trait-hvac-price-list-catalog.php" : "75fe5e2bdd645d24779e25fd7868946ee2f3403ddb076d292253984bbdd57ee8",
