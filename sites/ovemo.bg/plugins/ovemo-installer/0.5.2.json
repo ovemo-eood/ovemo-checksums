@@ -1,0 +1,26 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/admin.js" : "760188d1e42e98581cb9013d4ef465c7463585c2b99ffbf41b2c9144f5c25437",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-installer-admin.php" : "230969214d6c16e17807eeb00b532f0ff512fb946d88344ce98771ba03f4bffb",
+      "includes/class-ovemo-installer-data.php" : "7655c7f82329b69fe89cd939491c773540b92fa8a14c7790a2f4ab563fe91e28",
+      "includes/class-ovemo-installer-gate.php" : "30e0020440369913ebda39b08a38d2e02e20c4f1cfe581bc94f0b2f26ef4f5bc",
+      "includes/class-ovemo-installer-http.php" : "dc8bd0cbbc1355400fba805ec6a32e241c78b898b8c1869ca4ae819ce9dbc11e",
+      "includes/class-ovemo-installer-package.php" : "bf93829c98f0be15fe492036fdb489b72462bbdb23eb8cf9423f12b98905e5b5",
+      "includes/class-ovemo-installer-panel.php" : "bea6009e8bea213d48bcd09e113da38c973b558ed2c8d210005209950230914a",
+      "includes/class-ovemo-installer-runner.php" : "d74cdc2ee781af39133d48328cdf1062d977ce092c7c8047949b7c54bc1b5434",
+      "includes/class-ovemo-installer-steps.php" : "a7ea69e65d6cb32829e26c686c3f4698ae8dd366b2be4c2901adcf1676d49bcf",
+      "includes/class-ovemo-installer-subdomain.php" : "2c6e9ef8a53bf79c82b4538844672ad16ebfa27713b0c1cbea33941dd49a77ef",
+      "includes/class-ovemo-installer-whm.php" : "0cb422f2197abbe80b7371283715798ba84b1315ac2eb18bf2c7567d892af6fb",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-installer-bg_BG.mo" : "90c63da2f4d14bdd698bcfe013573a930b8b711fb7ff2bfd42ca33a95099dbe2",
+      "ovemo-installer.php" : "83879567861ecd78d269381737079f6e99cb3271fa81ac5cc49377ecb0eefc79"
+   },
+   "version" : "0.5.2"
+}
