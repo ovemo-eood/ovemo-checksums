@@ -5,7 +5,7 @@
       "assets/js/admin.js" : "3cc9bc32675ca2c8376f5fcb84ccadd54958a31c51771b556bfc7149839a29b0",
       "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
-      "includes/class-ovemo-installer-admin.php" : "8a829c43488bf7e0f4ad4cf46ec27563c03df01bfc33daa2f6e8f7039fce9c74",
+      "includes/class-ovemo-installer-admin.php" : "162e695ddbb8b12fd2dac1f495ed623b1c338de2caeae07e7d7da2e1990b17d2",
       "includes/class-ovemo-installer-data.php" : "7655c7f82329b69fe89cd939491c773540b92fa8a14c7790a2f4ab563fe91e28",
       "includes/class-ovemo-installer-gate.php" : "30e0020440369913ebda39b08a38d2e02e20c4f1cfe581bc94f0b2f26ef4f5bc",
       "includes/class-ovemo-installer-http.php" : "dc8bd0cbbc1355400fba805ec6a32e241c78b898b8c1869ca4ae819ce9dbc11e",
@@ -19,7 +19,7 @@
       "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
       "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
       "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
-      "languages/ovemo-installer-bg_BG.mo" : "cddd9f219ab50056621de15526bb59965dacc475326b98967cee6572f7e249b4",
+      "languages/ovemo-installer-bg_BG.mo" : "2ad238b77f2a3a84e3a8358a78a057b5961bb0141a4a3d47668b32f28e87e8df",
       "ovemo-installer.php" : "3cb683eff688ead163578e67c5093efe8796d89c46d76dd0552d575895abd3ee"
    },
    "version" : "0.5.3"
