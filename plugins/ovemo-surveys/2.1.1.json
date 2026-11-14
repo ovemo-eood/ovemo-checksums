@@ -1,0 +1,26 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/admin.js" : "ffa50e38b12b624def2dd2c8aebee263479f3a640c1067eb015d10db3a4ebb12",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/survey.css" : "3dac9457e3b02e1fb85a00ae5d253b9bbf753b2db66cab318bd43e3f80cf196b",
+      "assets/survey.js" : "2bc1b0ec5513b12b6d20fa5cf854b5a4332baff184bd82378ef04c43391fc995",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/admin-editor.php" : "9cc926f9dadf7c7e15e012c99dd77eb46a898d465ef1fa3f5a6722f2105679a4",
+      "includes/admin.php" : "4809e7dfe254946f6c6b0d6b849f7424f666a620af89995f31d619043a2f1941",
+      "includes/db.php" : "050e9431a75bb664b1571c5fcf7801c9fed8aaf5a55aecf70885f79367a258cb",
+      "includes/front.php" : "075b8ae8080c4be8cf76d86359c40907a0fc6f39f650daa3d9de5a4ab7e5761b",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/mail.php" : "5f277b424b5aaa336c9a0abdfe01aa98942e912ead3b46493fa930eb0d4c0409",
+      "includes/surveys.php" : "3b7c9f00d425e9f152b7b9edce1315b390f4c39e6e6ba2cb57717e96ba276243",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-surveys-bg_BG.mo" : "16f3b12cb048cab27fcc98e582610de7496e7222991928190b3c4c1c8f1697f1",
+      "ovemo-surveys.php" : "0b16ac607a4904a315c30af8c9554d6a7383ac529db133e5c7258360394a857c",
+      "templates/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "templates/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "templates/survey-page.php" : "2319b5fe38b67333f6bebe76b58535115e4abe62d40345ad69183a496d94b4cc"
+   },
+   "version" : "2.1.1"
+}
