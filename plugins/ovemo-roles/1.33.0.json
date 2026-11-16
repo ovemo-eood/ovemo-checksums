@@ -1,0 +1,25 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/admin.js" : "486b0d050a9dbb09a39479b99c4aa4579c7cde8393ed83859860bc957674ba6a",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/settings-lock.js" : "a92d46a36f83acc577c1c57c22c53eab40ce1bf71702634494df5aff239bb060",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-roles-admin.php" : "40b7b5981a420df247ff55e7f70dc56824ed887c7919d497b631f8112411d646",
+      "includes/class-ovemo-roles-dashboard.php" : "c98ea450a7dbc03df3c3974103f130e8114186964d2bc4880de3ab68facbf775",
+      "includes/class-ovemo-roles-extras.php" : "4a94ef31a4712878b6040c8ef6a8e1cc0412f25036427d2f5ff9073926b2d92d",
+      "includes/class-ovemo-roles-guard.php" : "5e1ec6dcd559217724c304f9cf6198ede2537e41b4a895c34fff66f21c0170b6",
+      "includes/class-ovemo-roles-log.php" : "431f5e4b2e8aded89f560460a8d72284873c7d736dd3a11caaa140e7844590ac",
+      "includes/class-ovemo-roles-site.php" : "2e057be9067c9acfbb26e3bea15acfe1dd778c76505af11ff178cf35a0206ed8",
+      "includes/class-ovemo-roles.php" : "6869ee85960ff8e617add5c8e530cad62fbe5aa4d3e7cfdf3ec05fa5a03b46dd",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-roles-bg_BG.mo" : "e37a08926333aa3aae8f3c7fa23363e72aa8d0c0a3d56f887aa7c68c6f51be14",
+      "ovemo-roles.php" : "4bda172ae06f52ec4320f40ac39a88f06f29ff57e9f9da4df2350436db3cf7e8",
+      "uninstall.php" : "7713c2f425aedb9c6850929bbc0fc3f0272e7d64e1d618c45ddf1545091f3a12"
+   },
+   "version" : "1.33.0"
+}
