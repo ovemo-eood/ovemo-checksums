@@ -1,0 +1,15 @@
+{
+   "files" : {
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-log-admin.php" : "20bdeeef991d6f5b8c9f603ee81a5fed9ebaaf8f206753a6b8c766ce4efa037a",
+      "includes/class-ovemo-log-seen.php" : "abb5dccc39785aba792dad57b382039ea32f9ac02b1290798e64eb91c8f2ea8c",
+      "includes/class-ovemo-log.php" : "132983da54d662dbbad895046cfdc65f1bd347919aeacad5e97c3605c6898713",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-log-bg_BG.mo" : "0ec864ea388a448efcc2406dc187419cad414d44126c5449c5919ef6b511ba9e",
+      "ovemo-log.php" : "b91c17408b4a22dc5184f2cdad4a2590ea66e6018246c71acbda3fe78bea231e"
+   },
+   "version" : "1.3.0"
+}
