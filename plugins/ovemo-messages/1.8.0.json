@@ -1,0 +1,24 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/example.js" : "7fe066b11f216c52c2e1c8c1bee7d063c4a2d272458d76a479ed652988990564",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "data/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "data/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "data/templates.json" : "9825c6f02ac1f7671b2c9435eb25b4a44c150bca6a66af921def7063a95c61ff",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-messages-log.php" : "370da3a518d649ecfe35551235362fb27a3cb2f64caac56c952ccd814c1e5f95",
+      "includes/class-ovemo-messages-screen.php" : "dddd0a553fedfe8ae6802a0110dc544aaba76ba3b431dcbe1d31ec2a66f2494d",
+      "includes/class-ovemo-messages-store.php" : "d124d50c724798f0b0772b5c137b6bb324c86d3aa2724d134823fc1d565537f7",
+      "includes/class-ovemo-messages-unsubscribe.php" : "7474cea992e9085a59aadbb2206980210c124ad03e2b40dd5194e47651be3b25",
+      "includes/class-ovemo-messages.php" : "b4d0151fc2fb9e985a0e0c009fc8609eb5e886c83d57bd0b7397415931267a92",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-messages-bg_BG.mo" : "4c4ad99075721d882e252d08fc7cd1206b805787478d5a3b08b6f70771276944",
+      "ovemo-messages.php" : "1dbd57c597f6f416c5cc43bb5b0bf5ad666ec41ff674c7659f3d23161be6d886"
+   },
+   "version" : "1.8.0"
+}
