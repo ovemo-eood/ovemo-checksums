@@ -1,0 +1,26 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/css/admin.css" : "7e2b6c33c806d67715e21b77cc407829920f6033ab37c0a3a1cdf637869e51d2",
+      "assets/css/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/admin.js" : "c4e641f0a7a686a3f8bfb031fcbfa5d6e1881ddd89f9e3dc0909ae2761e96267",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/db.php" : "33029c538202ef15a15a6eda469673066fee781be1b1722907dcc37b13496c58",
+      "includes/errors.php" : "ac74c60012606932ae35b6fd1221126c79fb5720f5a457b40afb4554a790ec4b",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/instructions.php" : "0086401a374738a4db78c6b93bc518bebc13fb65b8e2ade4e45a426292911306",
+      "includes/leftovers.php" : "64e476c5ef49bb5f220417b58b177994b227064948d8de0dbbde672ada091de6",
+      "includes/site-mode.php" : "733ca5efe9832f5e628964acf1c1461f3fe07124a733f57c4625cc0ca125ea90",
+      "includes/smtp.php" : "52451698236d67417dac409b91c66d47463531462a399fdbc0a724a4664715e1",
+      "includes/status.php" : "3c90aa684f6529f9c0844597bffe292a30798c791f25761c03f11158481b5697",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-sitetools-bg_BG.mo" : "57889769da93130b90ee6416091fa7adec42294fe4706075849668a2a7a5c39c",
+      "languages/ovemo-sitetools-instructions-bg_BG.mo" : "3cd313ceeca04143e7d2cb83b2cd9fc17eb311505a3e0bd640f4278847d97cf3",
+      "ovemo-sitetools.php" : "c66047a9a5e75a11ff0756b689f16209a374aaa6fc30a0e753ad507219696f20"
+   },
+   "version" : "2.9.5"
+}
