@@ -1,0 +1,10 @@
+{
+   "files" : {
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-portfolio-bg_BG.mo" : "6367da758bc12ac6ad04f1e29bf283175e09e096e53e1f6982418831fbfd71c5",
+      "ovemo-portfolio.php" : "34638110bf63cd9779d50d89f508f2ca1024b0d77ae348628a2707c316a5bbd6"
+   },
+   "version" : "2.3.1"
+}
