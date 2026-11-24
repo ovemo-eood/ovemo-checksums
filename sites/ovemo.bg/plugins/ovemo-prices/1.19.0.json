@@ -1,0 +1,31 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/promotion-block.js" : "e6a0656af4053975e65670b81444f4493ddcfd8244f11545caa5751ea51ca61d",
+      "assets/js/promotion.js" : "ded7b99906d45c4b187c351f4fe2369d9c18e390c94c44b1b22078d16492863f",
+      "assets/js/promotions.js" : "bd056b3549273ba83e1f419cb007494c8cb340ca3bcfe7a876acc34ffd1a7a0d",
+      "blocks/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "blocks/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "blocks/promotion/block.json" : "a2e5920ca26281c0433da9af2dfc02059478c9e5b4b13d89afd3f16cf26a0887",
+      "blocks/promotion/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-prices-admin-groups.php" : "1df35606decee789d3a4f4cadca5bbe50c413455b1f8e95c0e9e30c05a4cf6c1",
+      "includes/class-ovemo-prices-admin-lists.php" : "524fc0cac2b1fbed0ca829bb7b9b4162f7af86e9e257612454fcb2a8055ae1ec",
+      "includes/class-ovemo-prices-admin-promotions.php" : "73d1b9c5c5edbe6fef5b183110dcfbd3a26ca4c46700fda9e06c6ac97c5b96b7",
+      "includes/class-ovemo-prices-admin-properties.php" : "31fac92f16b60c156497814cf570ead26d4cfc4350f5152ffbcb1dc84bd90a23",
+      "includes/class-ovemo-prices-admin-settings.php" : "883bbff3c5e2fa4c8dbe2b58795957c0c5f9b1f0143a338369021c1a0c6e27df",
+      "includes/class-ovemo-prices-admin.php" : "21bc4bb3badffa7eb3c3f72a1072feda221b0fc545a6bbf2651bf62564e3ed63",
+      "includes/class-ovemo-prices-block.php" : "3b0c7ba654f6207b618043cbe18aa3d50aac54b4085c25c6fa5d607618ce25b3",
+      "includes/class-ovemo-prices-shortcode.php" : "b98fb05cdcab92afdedd4c3d2b2ab7c4583645bf5d86d49b5764c863b1f15c0d",
+      "includes/class-ovemo-prices.php" : "4f336d0c8a4a7eba92d5b72995668be2c6b35221e67f6b946e6d3f0b3c4ca7ed",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-prices-bg_BG.mo" : "66740db3f6808c1257059ec3417bdacc94d18331bf0ec567209bfef119e8b9a7",
+      "ovemo-prices.php" : "5b399644841fc1252634772bc1e3f10de8b3eb180b7f130293775b63fec1c83e"
+   },
+   "version" : "1.19.0"
+}

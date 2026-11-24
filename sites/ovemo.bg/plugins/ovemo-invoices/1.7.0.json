@@ -1,0 +1,24 @@
+{
+   "files" : {
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-invoices-admin-documents.php" : "8b24ff83e45160bd9b0f7aac2c8a93d8af417152d0e7b1b906e0019c88b11970",
+      "includes/class-ovemo-invoices-admin-reports.php" : "cedc08a767768e2513edcebda7d003a5000f3c082721b02b826c2d309e75ae2d",
+      "includes/class-ovemo-invoices-admin-settings.php" : "d200ce81f3a628948bc16d9679b39d31c2221f1375a6dc18f050f8ce77b86b2f",
+      "includes/class-ovemo-invoices-admin.php" : "0e7684fd1f8a296079b9cd04ee458ce6703c5fc763e430be13176b0e592b1815",
+      "includes/class-ovemo-invoices-company.php" : "68cff123c6a03ddd699912b565cc276edc60e58d92eed80f8aff9b269de9e9b2",
+      "includes/class-ovemo-invoices-documents.php" : "c9d166db811f06ae83300c3fd4e16ed8a3b0f20f4628e03e7c5deca39bcdd03d",
+      "includes/class-ovemo-invoices-page.php" : "e472ef8efce095cd65820e692c0337cf3552d358ed50f1b6dd29976fb755e483",
+      "includes/class-ovemo-invoices-reports.php" : "17c3f5fcc737bbaec9137c99611f579b2e932af0ffb12eeab77220d9e71c6de2",
+      "includes/class-ovemo-invoices-sums.php" : "85c2c4e4c833d2e8337eb28570b7707d99edb157acc9ee2b9e2af37255ca3890",
+      "includes/class-ovemo-invoices-upgrade.php" : "7003fd8e105d58587800dcf7e96cd9c1f5a693101eb274b672935c70be04f8d9",
+      "includes/class-ovemo-invoices-words.php" : "6953aa6350cd60ed7b7fb17311723d8c55c9f2ca4dc2ebc963713a210a1b5bc3",
+      "includes/class-ovemo-invoices.php" : "c5d8c172f7cdd852231f5fed9c6f483d721d2fb424825b5e353a23a4bbae938c",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-invoices-bg_BG.mo" : "cc8b1928261c721a9ef8871f5f1f00419b259b14ca3a8bdc8ca992e319739496",
+      "ovemo-invoices.php" : "55696ac550aea38569b42814d3f4fddceb8d6597714c222af21b5e5bb9bba303"
+   },
+   "version" : "1.7.0"
+}
