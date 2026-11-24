@@ -1,0 +1,20 @@
+{
+   "files" : {
+      "assets/.htaccess" : "b7b1aed5004a2099e3e3549b0f41d50854844951f38098c4c220dce52e578108",
+      "assets/css/front.css" : "a81f7e309f788be749e38384af49878c83327cf7c9dae078f4c17d4f9a10628e",
+      "assets/css/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "assets/js/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "includes/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "includes/class-ovemo-faq-admin.php" : "1006064875cec09c087ccdec86ec55294948abafed9fdd0fdcdb840862a61455",
+      "includes/class-ovemo-faq-front.php" : "ee17c4dac215ac2d686f5dfd76810c3cd5610457f4c43a0c4c11e81ea5a621a9",
+      "includes/class-ovemo-faq.php" : "9434fa6f82ea9a0e1a61b50495188cca52b7f49bf52fcb7344931a53b2992d67",
+      "includes/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/.htaccess" : "9aee96d9eb52ad90f5ff21ee05a979eb1889ee864671d46ba9f86cd68822e2a1",
+      "languages/index.php" : "bd48c24ce4500e60d2524571756787283f0d3fbfa50b116331309c09773f0cd1",
+      "languages/ovemo-faq-bg_BG.mo" : "92b7b0ffc27bad9e96d6f3cd8f37a83edc4c7a6063008c087686d8da28ae65ea",
+      "ovemo-faq.php" : "e0444b20ad1954bbc8f77f38c97fa72e8ced7e2472d0906f2b0f47a046bf48a7"
+   },
+   "version" : "1.6.1"
+}
